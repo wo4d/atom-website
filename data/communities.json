@@ -1,0 +1,5 @@
+{
+  "guildCount": null,
+  "featuredServers": [],
+  "note": "Replace guildCount with the real Atom guild count. Only add featured servers with server-owner/admin permission."
+}
